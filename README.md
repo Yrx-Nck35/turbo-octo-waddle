@@ -8,4 +8,4 @@ open thing sumthing
 design
 
 # script.js
-jfdksajfsda
+function
